@@ -33,4 +33,4 @@ puts "Enter displacement:"
 displacement = gets.chomp.to_i
 
 ciphered_string = string_cipher(input_string, displacement)
-puts "Ciphered string: #{cipher_string}"
+puts "Ciphered string: #{ciphered_string}"
